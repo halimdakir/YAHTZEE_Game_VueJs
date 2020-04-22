@@ -1,0 +1,48 @@
+.box {
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+.div-1{
+    width: 50%;
+
+}
+.div-2{
+    width: 50%;
+
+}
+.div-3{
+    width: 50%;
+
+}
+/* Mobile */
+@media screen and (max-width: 400px) {
+}
+/* Tablet */
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+    .div-1{
+        width: 70%;
+    }
+    .div-2{
+        width: 70%;
+    }
+    .div-3{
+        width: 70%;
+    }
+
+}
+/* Desktop */
+@media screen and (min-width: 1025px) {
+    .div-1{
+        width: 33.3%;
+
+    }
+    .div-2{
+        width: 33.3%;
+
+    }
+    .div-3{
+        width: 33.3%;
+
+    }
+}

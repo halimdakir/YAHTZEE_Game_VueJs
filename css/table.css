@@ -1,0 +1,49 @@
+.smallBlack{
+    margin-top: 10px;
+    margin-left:auto;
+    margin-right:auto;
+    color: rgba(6, 25, 45, 0.6);
+    font-family: Calibri, monospace;
+}
+table.center {
+    margin-left:auto;
+    margin-right:auto;
+    color: rgba(6, 25, 45, 0.6);
+}
+table {
+    font: inherit;
+    border-collapse: collapse;
+    /*border: 2px solid #44475C;*/
+    margin-top: 1px;
+    color: rgba(6, 25, 45, 0.6);
+
+}
+
+table th {
+    text-transform: uppercase;
+    text-align: center;
+    background: #44475C;
+    color: #FFF;
+    padding: 8px;
+}
+
+table td {
+    text-align: center;
+    padding: 8px;
+    /*border-right: 2px solid #7D82A8;*/
+}
+table td:last-child {
+    border-right: none;
+}
+table tbody tr:nth-child(2n) td {
+
+}
+/* Mobile */
+@media screen and (max-width: 400px) {
+}
+/* Tablet */
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+}
+/* Desktop */
+@media screen and (min-width: 1025px) {
+}
