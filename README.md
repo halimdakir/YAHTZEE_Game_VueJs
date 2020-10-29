@@ -1,4 +1,9 @@
-**Tärningsspel ”Yatzy”: HTML, CSS och Vue**
+# Tärningsspel ”Yatzy”: HTML, CSS och Vue
+
+![1](https://user-images.githubusercontent.com/3110131/97630288-ac36f500-1a2f-11eb-9b53-f149ec4101ec.jpg)
+![2](https://user-images.githubusercontent.com/3110131/97630307-b22cd600-1a2f-11eb-9897-2e07130374ef.jpg)
+![yatze3](https://user-images.githubusercontent.com/3110131/97629657-b0164780-1a2e-11eb-956e-afa7905fb6e0.jpg)
+
 
 • Man ska kunna spela en variant av Yatzy där man kan kasta tärningar, låsa tärningar, välja hur det ska bokföras samt efter avslutat parti visa resultatet. Det går bra att förenkla reglerna med antal olika kombinationer samt när en omgång räknas vara klar. Men utifrån dina regler ska spelet fungera och vara tydligt för användaren.
 
